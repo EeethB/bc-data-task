@@ -56,7 +56,9 @@ Work your magic:
       
   3. Explain everything in #1 and #2 again (!), but this time much simpler: keep the whole thing to just a few sentences about the essence of what is going on.
   
-      i. The essence of this analysis is simple. First, I would make sure to answer the specific questions asked, detailing any assumptions made. Then I would explore the data further to see if there are other significant patterns worth showing. Finally I would add some engaging prose to give context and narrative around the data.
+      i. The essence of this analysis is to communicate how user purchasing has changed over time. The data piece entails calculating purchase rate, including choosing appropriate aggregation levels so that the underlying tendencies are clear. The communication piece entails contextualizing the data displayed, detailing assumptions, and helping clarify any areas that could be mis-interpreted.
+      
+      ii. The essence of this analysis is simple. First, I would make sure to answer the specific questions asked, detailing any assumptions made. Then I would explore the data further to see if there are other significant patterns worth showing. Finally I would add some engaging prose to give context and narrative around the data.
   
   4. In what ways could the final data be misinterpreted? What are the benefits and limitations of thinking in terms of an "average purchase rate" in the first place?
   
