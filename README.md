@@ -24,15 +24,16 @@ Work your magic:
 
   1. Final form
   
-      i. My preferred form for communication is R Markdown, and I believe it would be appropriate here. I would likely write a static report to be published/distributed, but R Markdown also allows for a document to be easily turned into a set of slides or an interactive Shiny document if a live presentation or interactive dashboard is more appropriate.
+      i. My preferred form for communication is R Markdown, and I believe it would be appropriate here. I would write a static report to be published/distributed, but R Markdown also allows for a document to be easily turned into a set of slides or an interactive Shiny document if a live presentation or interactive dashboard is more appropriate.
     
       ii. The resulting document would at least contain:
       
-          a. The average purchase rate, defined as the number of transactions per member, for the entire time frame in question.
+            a. The average purchase rate, defined as the number of transactions per member, for the entire time frame in question.
       
-          b. Some sort of plot showing the purchase rate over time in smaller time increments. This would show the general direction that the purchasing rate was moving over time.
+            b. A plot showing the purchase rate over time in smaller time increments. This would show the general direction that the purchasing rate was moving over time.
       
-          c. Another plot, perhaps a boxplot or a beeswarm, that would reveal changes in the distribution of purchasers. This would show, for example, that if purchase rate is increasing, is it all users buying more, or is it a few users buying much more.
+            c. An additional plot, perhaps a boxplot or a beeswarm, that would reveal changes in the distribution of purchasers. This could answer important questions, such as, "Are all users buying more, or are a few users buying enough to drive up the whole average?"
+            This would show, for example, that if purchase rate is increasing, is it all users buying more, or is it a few users buying much more.
           
       iii. Other aspects that I would explore and include, if they were compelling, are:
   
