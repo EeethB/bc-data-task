@@ -36,14 +36,20 @@ Long term goals
   
 
 Strengths
+  Focus
+  Learn new things
+  Get along well with people
 
 Weaknesses
+  
 
 A time I failed
   A few months into my current job, I was doing a monthly update to a claims dashboard for some of our groups. Our portion of the update was built in Excel, across multiple files. A cell in an upstream file moved, and when I updated downstream, I didn't catch it. I also did not submit it for review before pushing updated data out to the dashboard. Once I discovered the error, I notified the Chief Actuary and owned up to the error, but not before it had an external impact. It really helped impress upon me the importance of checks in your work. Whether those are thoughtfully designed, automated checks that alert you to anomalies, or live review by someone with more domain knowledge than you, it's important to have some backup on data quality.
 
 Biggest professional achievement
   The risk adjustment program requires health insurance issuers to submit claims information to the federal government. The government determines risk disparities between issuers, then transfers funds to account for risk differences. These payments can run into the millions of dollars for a single line of business. When I inherited the data QA of this process, there was little clear ownership of the different pieces. After I took ownership of scheduling, coordination between departments, and quality assurance of the data, we got ahead of regulatory deadlines, had a more robust checking process, and ultimately saved millions of dollars each year by getting a more clear picture of our risk.
+
+Leadership style
 
 Bandcamp seeks an experienced analyst to lead our small data team. With your superlative communication skills and expertise interpreting real-world data, you’ll help define research questions and provide empirical answers to those questions, while steering the development of our nascent data practice.
 
