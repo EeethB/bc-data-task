@@ -39,6 +39,9 @@ Strengths
 
 Weaknesses
 
+A time I failed
+  A few months into my current job, I was doing a monthly update to a claims dashboard for some of our groups. Our portion of the update was built in Excel, across multiple files. A cell in an upstream file moved, and when I updated downstream, I didn't catch it. I also did not submit it for review before pushing updated data out to the dashboard. Once I discovered the error, I notified the Chief Actuary and owned up to the error, but not before it had an external impact. It really helped impress upon me the importance of checks in your work. Whether those are thoughtfully designed, automated checks that alert you to anomalies, or live review by someone with more domain knowledge than you, it's important to have some backup on data quality.
+
 Bandcamp seeks an experienced analyst to lead our small data team. With your superlative communication skills and expertise interpreting real-world data, you’ll help define research questions and provide empirical answers to those questions, while steering the development of our nascent data practice.
 
 Bandcamp is a global music community where fans discover great music and directly support the artists who make it. We believe that music is an indispensable part of culture, and for that culture to thrive, artists—no matter their identity, community, or genre—must be compensated fairly and transparently for their work.
