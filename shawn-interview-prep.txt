@@ -1,0 +1,62 @@
+Leadership projects:
+  EDGE Server
+  Rating/Underwriting
+  Pharmacy rebates
+ 
+Company's needs
+  Data analysis
+  Develop small data team
+  Communication
+  Interpret real-world data
+  Guide vision
+  Shepherd standards and processes
+  Answer questions
+  User behavior
+  R/SQL
+  Lucid, engaging prose + tables/viz
+  Dashboards, reports, pipelines
+  Read application code/databases
+
+Dealt with conflict
+  Group needed, e.g. 15%
+  VP of Sales said 10%
+  I really thought 15 was appropriate
+  In meeting, since my responsibility is rating, I voiced my concern
+  We disagreed, chief actuary went with Sales, I accepted
+  Later, I discussed with chief actuary, he pointed out some information I hadn't considered, and I changed my position
+
+  Dealing with conflict with kids?
+
+Short term goals
+  Find or build an analytics dept with a more modern tech stack
+  Specifically, build out around R, SQL, and Git/Github
+  Grow people management skills, while creating an environment of diversity and inclusion that encourages a wide variety of perspectives
+
+Long term goals
+  
+
+Strengths
+
+Weaknesses
+
+Bandcamp seeks an experienced analyst to lead our small data team. With your superlative communication skills and expertise interpreting real-world data, you’ll help define research questions and provide empirical answers to those questions, while steering the development of our nascent data practice.
+
+Bandcamp is a global music community where fans discover great music and directly support the artists who make it. We believe that music is an indispensable part of culture, and for that culture to thrive, artists—no matter their identity, community, or genre—must be compensated fairly and transparently for their work.
+
+You will:
+
+  - Guide development of the team’s vision, oversee its projects, and shepherd its standards and processes.
+  - Work with all teams and types to shape and answer a delightfully diverse range   of questions.
+  - Work especially closely with the product and design teams to understand the vagaries of user behavior.
+  - Engineer pragmatic analytic approaches in R and SQL, improving our toolkit along the way.
+  - Present results in lucid, engaging prose, variously supported by tables and visualizations.
+  - Help design, engineer, and maintain dashboards, reports, and data pipelines.
+  - Spelunk application code and database schema to better understand what is represented where (and why).
+
+
+You have:
+  - Experience leading a team, and an interest in developing or strengthening your people management skills (formal management experience welcome but  not required).
+  - The ability to convey occasionally esoteric technical concerns in an illuminating way, to virtually anyone with any background.
+  - Broad knowledge of practical statistical methods (and pitfalls), coupled with serene analytic reasoning abilities.
+  - 3+ years of real-world analysis and engineering experience with SQL, R,   and Python.
+  - Experience working closely with a non-technical team that made use of   your analyses.
