@@ -9,6 +9,7 @@ Why I'm looking
   Modernize tech stack
   Less corporate environment
   Industry I can feel better about
+  Company that values DEI
 
 Leadership projects:
   EDGE Server
@@ -52,7 +53,7 @@ Long term goals
 
 Strengths
   Focus
-  Learn new things
+  Learn new things/appreciate new perspectives
   Get along well with people
 
 Weaknesses
@@ -68,23 +69,27 @@ Biggest professional achievement
 Leadership style
 
 Questions
-  This would be my first official people management position. What kind of internal support & mentorship is there?
-  Data practice was described as nascent, but there are some data products on the site.
+  Your experience
+    What's your favorite position you've held?
+    I've heard a lot about the importance of moving and staying fresh in the startup community, what's kept you with Bandcamp for 13 years?
+    What made you decide to start a company? Why Bandcamp in particular?
+    What keeps you going on difficult days?
+    What are some company-wide goals, and how do you see this team contributing to them?
+  Stack
+    Data practice was described as nascent, but there are some data products on the site.
     What data infrastructure is already built?
     Are there data people already in the company doing that work?
     What vision do you have for this department?
-  Is this purely internal analytics, or will it be building external products too?
-  What's your favorite position you've held?
-    I've heard a lot about the importance of moving and staying fresh in the startup community, what's kept you with Bandcamp for 13 years?
-  What kind of conference support is there?
-  What made you decide to start a company? Why Bandcamp in particular?
-  What short- and long-term goals do you have for the company?
-  What keeps you going on difficult days?
-  What kind of work expectations pervade at Bandcamp?
-  What is the performance review process like? What metrics or goals will my performance be evaluated against?
-  What do you hope for this position to accomplish in the first month/quarter/year/
-  Everything I read and hear about Bandcamp sounds almost more like a movement than a company. What keeps the movement going?
-  What are some company-wide goals, and how do you see this team contributing to them?
+  Position
+    Is this purely internal analytics, or will it be building external products too?
+    What do you hope for this position to accomplish in the first month/quarter/year?
+  Company
+    This would be my first official people management position. What kind of internal support & mentorship is there?
+    What kind of conference support is there?
+    What short- and long-term goals do you have for the company?
+    What kind of work expectations pervade at Bandcamp?
+    What is the performance review process like? What metrics or goals will my performance be evaluated against?
+    Everything I read and hear about Bandcamp sounds almost more like a movement than a company. What keeps the movement going?
 
 Close
   Is there anything that concerns you about my background being a fit for this role?
