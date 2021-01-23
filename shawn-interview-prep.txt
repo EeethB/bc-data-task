@@ -1,5 +1,9 @@
 Story
-  I'm a full-stack data analyst constantly striving to learn. I'm a passionate member of the R community, because it's not only a place to learn great data skills, it also welcomes beginners with open arms, particularly seeking to uplift members of marginalized groups across variances in ethnicity, race, culture, gender, and sexuality. I enjoy every step of data analysis, from the rough data wrangling, to refining the visual details of a plot, to writing up the language that gives data context and helps it tell a story. A couple topics I feel strongly about are organization and documentation. In my time at BCBSMS, I've streamlined many projects to improve efficiency and accuracy, as well as writing up detailed documentation to make it simple to transition between members of the team.
+  I'm a full-stack data analyst constantly striving to learn. I'm a passionate member of the R community, because it's not only a place to learn great data skills, it also welcomes beginners with open arms, particularly seeking to uplift members of marginalized groups across variances in ethnicity, race, culture, gender, and sexuality. I enjoy every step of data analysis, from the rough data wrangling, to refining the visual details of a plot, to writing up the language that gives data context and helps it tell a story.
+
+  A couple topics I feel strongly about are organization and documentation. In my time at BCBSMS, I've streamlined many projects to improve efficiency and accuracy, as well as written up detailed documentation to make project transitions simple between members of the team.
+  
+  Personally, I'm very outgoing, I draw energy from interactions with other people. I enjoy collaborative projects, and I'd like to have more of them. I feel I deal with conflict well; I strive to always stay humble enough to hear other people's perspectives and hold my own ideas with an open hand.
 
 Leadership projects:
   EDGE Server
