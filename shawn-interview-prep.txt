@@ -3,7 +3,12 @@ Story
 
   A couple topics I feel strongly about are organization and documentation. In my time at BCBSMS, I've streamlined many projects to improve efficiency and accuracy, as well as written up detailed documentation to make project transitions simple between members of the team.
   
-  Personally, I'm very outgoing, I draw energy from interactions with other people. I enjoy collaborative projects, and I'd like to have more of them. I feel I deal with conflict well; I strive to always stay humble enough to hear other people's perspectives and hold my own ideas with an open hand.
+  Personally, I'm very outgoing, I draw energy from interactions with other people. I enjoy collaborative projects, and I'd like to have more of them. I also feel that I deal with conflict well; I strive to stay humble enough to hear other people's perspectives and hold my own ideas with an open hand.
+
+Why I'm looking
+  Modernize tech stack
+  Less corporate environment
+  Industry I can feel better about
 
 Leadership projects:
   EDGE Server
